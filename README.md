@@ -102,10 +102,10 @@ ESP32 sensors → Raspberry Pi → Cloud → ML analysis.
 
 ## 📫 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/vedkhajone/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vedhanshukhajone@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
